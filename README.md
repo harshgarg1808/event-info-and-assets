@@ -1,1 +1,1 @@
-# event-info-and-assets
+# IBM Qiskit Lecture Notes
